@@ -1,4 +1,4 @@
-![CodePro-art GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![CodePro-art GitHub stats](https://github-readme-stats.vercel.app/api?username=CodePro-art&show_icons=true&theme=radical)
 
 
 <!--
